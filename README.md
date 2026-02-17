@@ -34,7 +34,7 @@ Este projeto foi construído para entregar uma experiência de navegação fluid
 
 Atualmente o projeto conta com uma organização direta:
 * `Cabeçalho.jsx` → Componente principal da barra de navegação e identidade visual.
-* `App.js` (ou similar) → Orquestração das seções da landing page.
+* `App.js`  → Orquestração das seções da landing page.
 
 ---
 
